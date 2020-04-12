@@ -1,3 +1,5 @@
+![alt text](https://github.com/galenseilis/image_anneal/blob/master/simulated_annealing.jpg "Logo Title Text 1")
+
 # image_anneal
 Provides a command line interface to use simulated annealing between two images, one providing color and the other providing structure.
 
